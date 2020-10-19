@@ -1,2 +1,2 @@
-# poll-app
+# Text mining
 text mining
