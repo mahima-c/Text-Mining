@@ -1,2 +1,2 @@
 # poll-app
-django practice
+text mining
